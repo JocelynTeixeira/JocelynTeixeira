@@ -1,16 +1,27 @@
-## Hi there 👋
+# Jocelyn Teixeira
 
-<!--
-**JocelynTeixeira/JocelynTeixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud Engineering | Technical Support | AWS**
 
-Here are some ideas to get you started:
+Davenport, FL • [jocelyn.l.teixeira@gmail.com](mailto:jocelyn.l.teixeira@gmail.com) • [LinkedIn](https://linkedin.com/in/jocelyn-teixeira)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Senior Technical Support Engineer pivoting into cloud engineering. 3+ years 
+diagnosing OAuth failures, REST API integrations, and SaaS platform issues 
+for enterprise MSP clients. Currently building on AWS and pursuing the 
+AWS Cloud Practitioner (CLF-C02).
+
+Studying B.A.S. in Cloud Computing at Valencia College (3.6 GPA).
+
+---
+
+## Tech Stack
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white)
+
++++
+
+## Certifications
+
+- 🔄 AWS Cloud Practitioner (CLF-C02) — *In Progress*
