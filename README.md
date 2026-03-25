@@ -20,7 +20,7 @@ Studying B.A.S. in Cloud Computing at Valencia College (3.6 GPA).
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat&logo=servicenow&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=postman&logoColor=white)
 
-+++
+---
 
 ## Certifications
 
