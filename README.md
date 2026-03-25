@@ -4,14 +4,16 @@
 
 Davenport, FL • [jocelyn.l.teixeira@gmail.com](mailto:jocelyn.l.teixeira@gmail.com) • [LinkedIn](https://linkedin.com/in/jocelyn-teixeira)
 
+---
+
 ## About
 
 Senior Technical Support Engineer pivoting into cloud engineering. 3+ years 
-diagnosing OAuth failures, REST API integrations, and SaaS platform issues 
-for enterprise MSP clients. Currently building on AWS and pursuing the 
-AWS Cloud Practitioner (CLF-C02).
+diagnosing OAuth authentication failures, REST API integrations, and SaaS 
+platform issues for enterprise MSP clients. Currently building on AWS and 
+pursuing the AWS Cloud Practitioner (CLF-C02).
 
-Studying B.A.S. in Cloud Computing at Valencia College (3.6 GPA).
+B.A.S. in Cloud Computing — Valencia College (3.6 GPA)
 
 ---
 
